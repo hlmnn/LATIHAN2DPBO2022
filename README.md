@@ -2,7 +2,7 @@
 
 >Saya Hilman Fauzi Herdiana (2000879) mengerjakan tugas LATIHAN2DPBO2022 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Repository ini dibuat untuk memenuhi tugas Latihan 2 praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek.
+Repository ini dibuat untuk memenuhi tugas Latihan 2 praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO).
 
 ### Detail file
 1. Ada 3 class (Product, Hardware, Memory) dan 1 Main.
