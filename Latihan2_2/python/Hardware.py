@@ -2,21 +2,25 @@ from Product import Product
 
 # class Hardware adalah child dari class Product dan parent dari class Memory
 class Hardware(Product):
+    # atribut private
+    __brand = ""
+    __model = ""
+
     # constructor
     def __init__(self):
-        self.brand = ""
-        self.model = ""
+        self.__brand = ""
+        self.__model = ""
     
     # set hardware brand
     def set_brand(self, brand):
-        self.brand = brand
+        self.__brand = brand
     # get hardware brand
     def get_brand(self):
-        return self.brand
+        return self.__brand
     
     # set hardware model
     def set_model(self, model):
-        self.model = model
+        self.__model = model
     # get hardware model
     def get_model(self):
-        return self.model
+        return self.__model
