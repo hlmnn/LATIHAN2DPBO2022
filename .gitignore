@@ -4,5 +4,4 @@
 *.exe
 *.class
 *.o
-
 */*/__pycache__
